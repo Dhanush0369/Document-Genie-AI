@@ -2,6 +2,8 @@
 
 Document Genie is a Retrieval-Augmented Generation (RAG) application that leverages Google's Generative AI framework to provide instant insights from your documents. It processes uploaded PDF files, breaks them down into manageable text chunks, and creates a searchable vector store. The project then uses semantic caching to improve performance and provide more accurate responses for similar queries.
 
+## Flowchart
+
 ![Flowchart](images/flowchart.png)
 
 ## Features
